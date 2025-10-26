@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7f7f12e-4a64-44e6-96fa-7af0049e5c5c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3327tDUK1kmefChzLyqvAvrMnNd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.SeCrudApplication.executor&quot;: &quot;Run&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/integrated/final 1.6/SeCrud 3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.65747124&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;,
+      &quot;mysql_aurora&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\OSHADHA\Videos\SeCrud 3\src\main\webapp\WEB-INF\views" />
+      <recent name="C:\Users\OSHADHA\Downloads\SeCrud 3\src\main\webapp\WEB-INF\views" />
+      <recent name="C:\Users\OSHADHA\Downloads\SeCrud 3\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\OSHADHA\Downloads\SeCrud 3\src\main\java\com\example\secrud\views" />
+      <recent name="C:\Users\OSHADHA\Downloads\SeCrud 3\src\main\java\com\example\secrud\services" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\OSHADHA\Downloads\2\SeCrud\src\main\webapp\WEB-INF\views\partials" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.secrud" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.secrud.views" />
+      <recent name="com.example.secrud.dto" />
+      <recent name="com.example.secrud.controller" />
+      <recent name="com.example.secrud.services" />
+      <recent name="com.example.secrud.models" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SeCrudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SeCrud" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.secrud.SeCrudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7f7f12e-4a64-44e6-96fa-7af0049e5c5c" name="Changes" comment="" />
+      <created>1758503525657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758503525657</updated>
+      <workItem from="1758503526725" duration="70000" />
+      <workItem from="1758503601071" duration="1150000" />
+      <workItem from="1758504764017" duration="4144000" />
+      <workItem from="1758512992575" duration="4721000" />
+      <workItem from="1758541375952" duration="680000" />
+      <workItem from="1758685538485" duration="1415000" />
+      <workItem from="1758700177256" duration="2397000" />
+      <workItem from="1758710882864" duration="5201000" />
+      <workItem from="1758716677794" duration="11000" />
+      <workItem from="1758766115429" duration="1614000" />
+      <workItem from="1758939267206" duration="706000" />
+      <workItem from="1758944907127" duration="35604000" />
+      <workItem from="1758984531391" duration="1480000" />
+      <workItem from="1758989253614" duration="112000" />
+      <workItem from="1758989508708" duration="34000" />
+      <workItem from="1758989587156" duration="6752000" />
+      <workItem from="1759000188317" duration="7135000" />
+      <workItem from="1759034582179" duration="65000" />
+      <workItem from="1759034688042" duration="13000" />
+      <workItem from="1759035047285" duration="24268000" />
+      <workItem from="1759152128975" duration="2016000" />
+      <workItem from="1759241404188" duration="1292000" />
+      <workItem from="1759261889569" duration="13000" />
+      <workItem from="1759316427473" duration="2743000" />
+      <workItem from="1759326186831" duration="2324000" />
+      <workItem from="1759384708701" duration="1140000" />
+      <workItem from="1759386185263" duration="6642000" />
+      <workItem from="1759410009887" duration="4213000" />
+      <workItem from="1759415521722" duration="14186000" />
+      <workItem from="1759478179746" duration="10128000" />
+      <workItem from="1759494325790" duration="16661000" />
+      <workItem from="1759645172471" duration="1956000" />
+      <workItem from="1760106399040" duration="13000" />
+      <workItem from="1760106975756" duration="1101000" />
+      <workItem from="1760109753337" duration="595000" />
+      <workItem from="1760282526610" duration="127000" />
+      <workItem from="1760298307882" duration="78000" />
+      <workItem from="1760798828652" duration="15000" />
+      <workItem from="1760798870174" duration="2000" />
+      <workItem from="1760800173662" duration="376000" />
+      <workItem from="1760805985783" duration="1348000" />
+      <workItem from="1760890429357" duration="10231000" />
+      <workItem from="1760948634095" duration="3530000" />
+      <workItem from="1760953019486" duration="3748000" />
+      <workItem from="1760960993056" duration="4469000" />
+      <workItem from="1761027084401" duration="1777000" />
+      <workItem from="1761410108771" duration="1021000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:javax.persistence:javax.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.xml.ws:jakarta.xml.ws-api" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/reviews/my_reviews.jsp</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
